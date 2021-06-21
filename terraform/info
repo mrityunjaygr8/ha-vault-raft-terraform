@@ -1,0 +1,2 @@
+download the vault creds and recovery keys from S3 bucket created by terraform
+and decrypt it from here: https://github.com/jcolemorrison/vault-on-aws/blob/master/files/vault_credentials_template.sh
